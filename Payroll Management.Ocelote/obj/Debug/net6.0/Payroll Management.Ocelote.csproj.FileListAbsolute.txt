@@ -1,0 +1,41 @@
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\appsettings.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\ocelot.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Payroll Management.Ocelote.exe
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Payroll Management.Ocelote.deps.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Payroll Management.Ocelote.runtimeconfig.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Payroll Management.Ocelote.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Payroll Management.Ocelote.pdb
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Ocelot.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.csproj.AssemblyReference.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.AssemblyInfoInputs.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.AssemblyInfo.cs
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.csproj.CoreCompileInputs.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.Payroll Management.Ocelote.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.build.Payroll Management.Ocelote.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Payroll Management.Ocelote.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Payroll Management.Ocelote.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\scopedcss\bundle\Payroll Management.Ocelote.styles.css
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.csproj.CopyComplete
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\refint\Payroll Management.Ocelote.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.pdb
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\Payroll Management.Ocelote.genruntimeconfig.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Ocelote\obj\Debug\net6.0\ref\Payroll Management.Ocelote.dll

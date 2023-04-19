@@ -1,0 +1,32 @@
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\appsettings.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Payroll Management.Finance.exe
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Payroll Management.Finance.deps.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Payroll Management.Finance.runtimeconfig.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Payroll Management.Finance.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Payroll Management.Finance.pdb
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.csproj.AssemblyReference.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.AssemblyInfoInputs.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.AssemblyInfo.cs
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.csproj.CoreCompileInputs.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets\msbuild.Payroll Management.Finance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets\msbuild.build.Payroll Management.Finance.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Payroll Management.Finance.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Payroll Management.Finance.props
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\scopedcss\bundle\Payroll Management.Finance.styles.css
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.csproj.CopyComplete
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\refint\Payroll Management.Finance.dll
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.pdb
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\Payroll Management.Finance.genruntimeconfig.cache
+C:\Users\rajit\source\repos\Payroll Management\Payroll Management.Finance\obj\Debug\net6.0\ref\Payroll Management.Finance.dll

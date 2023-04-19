@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKR9R7GLYp2GW1D+STniBfX2KFUK5qYso/5ToSUAtF2advskeCcsndGVoWWdEXaoPT0HRfZMHn9RFgz5zSgPeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajit\\source\\repos\\Payroll Management\\Payroll Management.Finance\\Payroll Management.Finance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rajit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rajit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rajit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\rajit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\rajit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

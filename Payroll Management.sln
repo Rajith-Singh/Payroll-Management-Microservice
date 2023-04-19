@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payroll Microservices", "Payroll Microservices", "{66E24768-1CB4-452D-A80D-D5987DEDE68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll Management.Finance", "Payroll Management.Finance\Payroll Management.Finance.csproj", "{5525A6AF-958D-4DE0-B1E7-C25392362F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll Management.Ocelote", "Payroll Management.Ocelote\Payroll Management.Ocelote.csproj", "{1C77233B-6D30-4EDC-A818-4BDA6780715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5525A6AF-958D-4DE0-B1E7-C25392362F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5525A6AF-958D-4DE0-B1E7-C25392362F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5525A6AF-958D-4DE0-B1E7-C25392362F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5525A6AF-958D-4DE0-B1E7-C25392362F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C77233B-6D30-4EDC-A818-4BDA6780715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C77233B-6D30-4EDC-A818-4BDA6780715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C77233B-6D30-4EDC-A818-4BDA6780715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C77233B-6D30-4EDC-A818-4BDA6780715D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5525A6AF-958D-4DE0-B1E7-C25392362F78} = {66E24768-1CB4-452D-A80D-D5987DEDE68C}
+		{1C77233B-6D30-4EDC-A818-4BDA6780715D} = {66E24768-1CB4-452D-A80D-D5987DEDE68C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DFAF55-DF9A-42D4-AD6B-DD7E49C56AC0}
+	EndGlobalSection
+EndGlobal
